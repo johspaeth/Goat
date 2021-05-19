@@ -73,7 +73,7 @@ The following security issues exist in the application:
     ```
     https://i92uw6vw73.execute-api.us-east-1.amazonaws.com/Prod/api/convert?document_url=https%3A%2F%2Fi92uw6vw73.execute-api.us-east-1.amazonaws.com%2FProd%2Fapi%2Fconvert%3Fdocument_url...
     ``` 
-* An undisclosed *critical* issue, as a bonus! 
+* An undisclosed *critical* issue, as bonus! 
 
 ## Acknowledgements ##
 ServerlessGoat was initially created and contributed to OWASP by Yuri Shapira & Ory Segal, [PureSec](https://www.puresec.io/).
